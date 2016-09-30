@@ -1,0 +1,19 @@
+{
+  "name": "example-autoserve-app",
+  "version": "0.0.1",
+  "description": "Example autoserve web application",
+  "main": "script.cgi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binki/example-autoserve-app.git"
+  },
+  "author": "Nathan Phillip Brink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binki/example-autoserve-app/issues"
+  },
+  "homepage": "https://github.com/binki/example-autoserve-app#readme",
+  "dependencies": {
+    "autoserve": "^1.0.0"
+  }
+}
